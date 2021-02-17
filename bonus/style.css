@@ -67,3 +67,13 @@
     width: 60px;
     height: 20px;
 }
+
+.ex-13-top-white{
+  height: 3px;
+  top: -3px;
+}
+
+.ex-13-bottom-white{
+  height: 3px;
+  bottom: -3px;
+}
