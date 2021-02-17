@@ -135,8 +135,12 @@
   }
 }
 
+.ex-13-top-white{
+  background: red;
+}
+
 .ex-13-button:hover .ex-13-top-white{
-  animation: topwhitecomplete 2s linear;
+  animation: topwhitecomplete 15s linear;
 }
 
 @keyframes topwhitecomplete {
@@ -152,7 +156,12 @@
 
   40%{
     top: 100%;
-    left: calc(100% - 30px);
+    left: calc(100% - 10px);
+  }
+
+  41%{
+    width: 20px;
+    height: 60px;
   }
 
   60%{
@@ -160,9 +169,19 @@
     left: 0;
   }
 
+  61%{
+    width: 60px;
+    height: 20px;
+  }
+
   80%{
     top: -10px;
     left: -10px;
+  }
+
+  81%{
+    width: 20px;
+    height: 60px;
   }
 
   100%{
@@ -171,7 +190,7 @@
   }
 }
 
-.ex-13-button:hover .ex-13-bottom-white{
+/* .ex-13-button:hover .ex-13-bottom-white{
   animation: bottomwhitecomplete 2s linear;
 }
 
@@ -205,4 +224,4 @@
     bottom: -10px;
     right: 20%;
   }
-}
+} */
