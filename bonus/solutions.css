@@ -145,21 +145,21 @@
     left: 10%;
   }
 
-  30%{
+  22%{
     top: -3px;
     left: calc(100% - 60px + 3px);
     width: 60px;
     height: 3px;
   }
 
-  31%{
+  33%{
     width: 3px;
     height: 60px;
     left: 100%;
     top: -3px;
   }
 
-  45%{
+  35%{
     top: calc(100% - 60px + 3px);
     left: 100%;
     width: 3px;
@@ -173,28 +173,28 @@
     left: calc(100% - 60px + 3px);
   }
 
-  75%{
+  72%{
     top: 100%;
     left: -3px;
     width: 60px;
     height: 3px;
   }
 
-  76%{
+  83%{
     width: 3px;
     height: 60px;
     left: -3px;
     top: calc(100% - 60px + 3px);
   }
 
-  90%{
+  85%{
     top: -3px;
     left: -3px;
     width: 3px;
     height: 60px;
   }
 
-  91%{
+  96%{
     width: 60px;
     height: 3px;
     top: -3px;
@@ -217,21 +217,21 @@
     right: 10%;
   }
 
-  30%{
+  22%{
     bottom: -3px;
     right: calc(100% - 60px + 3px);
     width: 60px;
     height: 3px;
   }
 
-  31%{
+  33%{
     width: 3px;
     height: 60px;
     right: 100%;
     bottom: -3px;
   }
 
-  45%{
+  35%{
     bottom: calc(100% - 60px + 3px);
     right: 100%;
     width: 3px;
@@ -245,28 +245,28 @@
     right: calc(100% - 60px + 3px);
   }
 
-  75%{
+  72%{
     bottom: 100%;
     right: -3px;
     width: 60px;
     height: 3px;
   }
 
-  76%{
+  83%{
     width: 3px;
     height: 60px;
     right: -3px;
     bottom: calc(100% - 60px + 3px);
   }
 
-  90%{
+  85%{
     bottom: -3px;
     right: -3px;
     width: 3px;
     height: 60px;
   }
 
-  91%{
+  96%{
     width: 60px;
     height: 3px;
     bottom: -3px;
